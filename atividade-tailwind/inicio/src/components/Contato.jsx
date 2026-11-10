@@ -24,7 +24,7 @@ export default function Contato() {
         </div>
 
         <div>
-          <label htmlFor="mensagem" className="block text-sm font-medium mb-1">Mensagem</label>
+          <label htmlFor="mensagem" className="block text-sm font-medium mb-1 ">Mensagem</label>
           <textarea
             className={`${estiloCampo} h-32`}
             id="mensagem"

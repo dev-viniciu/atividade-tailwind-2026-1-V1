@@ -2,7 +2,7 @@
 export default function Footer() {
   return (
     <footer>
-      <p className="bg-stone-100 border-t border-stone-200 py-6 text-center text-sm text-stone-500">© 2026 Cafeteria Grão Dourado · Feito com React + Tailwind CSS</p>
+      <p className="bg-stone-100 border-t border-stone-200 py-6 text-center text-sm text-stone-500 ">© 2026 Cafeteria Grão Dourado · Feito com React + Tailwind CSS</p>
     </footer>
   )
 }
